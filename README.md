@@ -1,3 +1,3 @@
 # jenkinsDemo
 
-This is Jenkins demo project
+This is Jenkins demo project.
